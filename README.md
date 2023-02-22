@@ -25,4 +25,4 @@ My ultimate goal is to become a proficient full-stack developer who can contribu
 
 ## Contact Me
 
-If you have any questions, comments, or just want to say hello, feel free to reach out to me at my ==[LinkedIn](https://www.linkedin.com/in/dionne-a-546bb7247/)== profile.
+If you have any questions, comments, or just want to say hello, feel free to reach out to me at my [LinkedIn](https://www.linkedin.com/in/dionne-a-546bb7247/) profile.
