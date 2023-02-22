@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @ZG4219
-- 👀 I’m interested in ... learning new things. 
-- 🌱 I’m currently learning ... coding to be a Full Stack Developer
-- 💞️ I’m looking to collaborate on ...more projects like mobile applications and creating websites.
-- 📫 How to reach me ...through via email- jr8dionne@yahoo.com
+## Hello World, Get To Know Me More
 
-<!---
-ZG4219/ZG4219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! My name is Dionne and I am currently taking the Full Stack Development course at UC Davis BootCamp. I am passionate about web development and constantly striving to learn new technologies and improve my skills.
+
+# Technologies I've Learned
+
+Throughout my course, I have learned a variety of web development technologies such as:
+- HTML
+- CSS
+- JavaScript
+- Express.js
+- Node.js
+- React
+- MongoDB
+- Mongoose
+- Apollo Client
+- Polished UI
+- Responsive Design
+- GraphQL
+- Progressive Web App (PWA)
+
+## My Goals
+
+My ultimate goal is to become a proficient full-stack developer who can contribute meaningfully to the web development industry. I am constantly working to improve my skills and expand my knowledge of web development technologies.
+
+## Contact Me
+
+If you have any questions, comments, or just want to say hello, feel free to reach out to me at my [LinkedIn](https://www.linkedin.com/in/dionne-a-546bb7247/) profile.
